@@ -53,7 +53,7 @@ This practice reminds me of the times you actually had to go to physical stores 
 
 It's got sentences like "Improve and expand your PC experience with Windows 98", a big red star reading "You can now use windows 98 on your MAC", and the large "Works better, Plays better". It also includes an image of what the Windows 98 desktop looks like.
 
-Let's look at a more recent examples, for instance, on the [Witcher 3 PS4 box](http://vgboxart.com/boxes/PS4/73072-the-witcher-3-wild-hunt-full.png).
+Let's look at a more recent example, for instance, the [Witcher 3 PS4 box](http://vgboxart.com/boxes/PS4/73072-the-witcher-3-wild-hunt-full.png).
 
 ![Witcher 3](http://vgboxart.com/boxes/PS4/73072-the-witcher-3-wild-hunt-full.png)
 
@@ -104,21 +104,35 @@ This prioritization is critical to making progress during this project. It means
 
 #### Focus on the present need
 
-Don't work on things that "you might need later" unless really necessary. This mindset is often linked to the YAGNI ([You Ain't Gonna Need It](https://martinfowler.com/bliki/Yagni.html)) which takes it's roots in the Simple Design concept introduced in one of the Agile approaches, XP ([eXtreme Programming](https://martinfowler.com/bliki/ExtremeProgramming.html)).
+Don't work on things that "you might need later" unless really necessary. This mindset is often linked to the YAGNI mindset ([You Ain't Gonna Need It](https://martinfowler.com/bliki/Yagni.html)) which takes it's roots in the Simple Design concept introduced in one of the Agile approaches, XP ([eXtreme Programming](https://martinfowler.com/bliki/ExtremeProgramming.html)).
 
-Does it mean there is no place for planning and design at all? Of course not. You will still need to think about your architecture, your data model and other activities needed to build a fully functional app. The whole idea of YAGNI is to avoid over engineering your solution and to focus on what is really needed to solve your problem now, not the problem you'll have to solve in two or three iterations.
+Does it mean there is no place for planning, requirements and architecture design at all? Of course not. You will still need to think about your architecture, your data model and other activities needed to build a fully functional app. The whole idea of YAGNI is to avoid over engineering your solution and to focus on what is really needed to solve your problem now, not the problems you'll have to solve in two or three iterations. YAGNI doesn't mean not documenting, but it forces you to reduce the scope to what you need now and not what you'll need later later. One iteration at a time.
 
 This obviously requires a good level of maturity about software architecture that is difficult to teach during this project but if you end up in a technical role in a startup or another company later on, this philosophy will most probably make sense then.
 
-YAGNI is a valuable concept when the code is easy to change so you won't always have the luxury to apply it. Sometimes, changes need to be made to make the code and the architecture more flexible before.
+A critical prerequisite to YAGNI is that the code is easy to change so you won't always have the luxury to apply it. Sometimes, changes need to be made to make the code and the architecture more flexible before.
 
-It's all about balance. And a nice way to illustrate it is by using a "cursor" metaphor. Depending on your context, you'll want to either plan as much as you can for what's ahead. In another context, you'll go the opposite way and full "YAGNI" or find your balance somewhere in the middle.
+It's all about balance and context. And a nice way to illustrate it is by using a "cursor" metaphor. Depending on your context and project, you'll need to plan as much as you can for what's ahead and perform a thorough analysis. In another context, you'll have the opportunity to go the opposite way and full "YAGNI" or find your balance somewhere in the middle.
 
-The good thing about this project is that you start from a clean slate, meaning that there is not much code you can't change, therefore, you can use the YAGNI mindset.
+The good thing about this project is that you start from a clean slate, meaning that there is not much code you can't change easily, allowing you to apply it.
+
+You never know what the feedback of the customer will be during your demos, or what crazy ideas we will come up with during those meetings. You may also find technical limitations that force you to go a different path when you're stuck. So, not planning too far ahead allows you to make sure you don't work on things you will never need.
 
 #### Your first client demo
 
+The first iteration is over and you're ready to demo what you have so far. If you followed the previous advices, you should have a rather simple but functional app to show, even after two weeks. There is, however, most likely unfinished features, test data or other temporary things in your app.
+
+As a customer, this is not really something you want to see. You don't expect the finished product but you want to make sure that whenever you tap on a button, it does something and that the label of the button is not "button".
+
+A good rule of thumb is to hide anything that is unfinished. The goal is not to show unfinished work to show that you spent time on it. Your end customers will never care about the "time spent", they are interested about the "value delivered".
+
+It is therefore very important to hide anything that is not working, or that produces no outcome.
+
+Don't underestimate the time and effort it takes to merge all your respective changes together. Ideally, you'll want to make sure you have a "demo-able" version of your app the night BEFORE the demo. Don't do this a few minutes before, as it will likely result in an unhelpful review.
+
 #### Your first retrospective
+
+
 
 #### Wrapping up
 
@@ -143,8 +157,6 @@ Notice than in the previous examples, I didn't talk about the "colors" or how pe
 So during your first iterations, it's ok to not to have a great design with an amazing color palette and a beautiful, but it is not ok to have features that your customer don't understand.
 
 #### Build incrementally
-
-An important part of this project
 
 #### Don't reinvent the wheel
 
