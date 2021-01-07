@@ -21,7 +21,7 @@ In the next chapters, I will describe how the project is structured and how we r
 
 One thing that Agile values is individuals and their interactions over processes and tools. So despite some of the Agile principles being applicable to solo projects, it usually starts with a team. During this project, you are asked to form teams of 4 students whenever possible.
 
-This size is small enough to optimize collaboration and at the same time big enough to experiment with the difficulties of interacting with several people while solving a problem as well as to build an app with sufficent quality by the end of the semester.
+This size is small enough to optimize collaboration and at the same time big enough to experiment with the difficulties of interacting with several people while solving a problem as well as to build an app with satisfying quality by the end of the semester.
 
 To each team, a "Coach" will be assigned. It can be a teaching assistant or a tutor, depending on the team.
 
@@ -61,7 +61,7 @@ They are trying to tease you with sentences like "Fullfill your prophecy", "A ri
 
 That's what we expect you to do for your 3 ideas, in a much lower fidelity of course. We don't expect you to create art, we just want you to think about the kind of sentence you would put on your box and to draw with a pencil the main screens your app would have.
 
-Even if you don't have a product yet, try to sell it to us! It's like a movie teaser!
+Even if you don't have a product yet, try to sell it to us! It's like a movie teaser! In other circles, this kind of exercice is also known as [value proposition](https://en.wikipedia.org/wiki/Value_proposition) design, although in the scope of this project, we try to keep it as simple as possible.
 
 In a product box workshop, the customer is usually the main contributor. In our case unfortunately, not all your ideas have "real" customers (at least not yet), so you have to put yourselves in their shoes for now and come up with a "product box" that clearly illustrate what you plan on working on  during the project.
 
