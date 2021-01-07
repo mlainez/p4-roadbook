@@ -15,7 +15,7 @@ The world we live in today is in constant change. We are uncovering new technolo
 
 This project introduces Agile through the development of an Android mobile app in groups of 4 students. You will be encouraged to publish your app on the Google Play® store if it reaches a sufficient level of quality.
 
-In the next chapters, I will describe how the project is structured and how we recommended you to approach it.
+In the next chapters, I will describe how the project is structured and how we recommend you to approach it.
 
 ### Your team
 
@@ -126,9 +126,9 @@ As a customer, this is not really something you want to see. You don't expect th
 
 A good rule of thumb is to hide anything that is unfinished. The goal is not to show unfinished work to show that you spent time on it. Your end customers will never care about the "time spent", they are interested about the "value delivered".
 
-It is therefore very important to hide anything that is not working, or that produces no outcome.
+It is therefore very important to remove or hide anything that is not working, or that produces no outcome when triggered by the customer.
 
-Don't underestimate the time and effort it takes to merge all your respective changes together. Ideally, you'll want to make sure you have a "demo-able" version of your app the night BEFORE the demo. Don't do this a few minutes before, as it will likely result in an unhelpful review.
+One last important point: Don't underestimate the time and effort it takes to merge all your respective changes together. Ideally, you'll want to make sure you have a "demo-able" version of your app the night BEFORE the demo. Don't do this a few minutes before, as it will likely result in an unhelpful review.
 
 #### Your first retrospective
 
