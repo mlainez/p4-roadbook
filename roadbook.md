@@ -65,7 +65,7 @@ Even if you don't have a product yet, try to sell it to us! It's like a movie te
 
 In a product box workshop, the customer is usually the main contributor. In our case unfortunately, not all your ideas have "real" customers (at least not yet), so you have to put yourselves in their shoes for now and come up with a "product box" that clearly illustrate what you plan on working on  during the project.
 
-In order to make things simpler, we don't ask you to build an actual box like the examples above but rather to create an A2 (or A3) poster. On it, we would like to at least see the following items:
+In order to make things even simpler, we don't ask you to build an actual box like the examples above but rather to create an A2 (or A3) poster. On it, we would like to at least see the following items:
 
 * A name for your app or game
 * A tagline (Snapchat has "The fastest way to share a moment", Spotify has "Music for everyone")
@@ -94,7 +94,7 @@ As a customer, I expect to see value being delivered as soon as possible in the 
 
 #### Identify your Leap Of Faith Assumption
 
-In Lean Startup, a very interesting concept was introduced: The leap of faith assumption, or LOFA. The idea is rather simple, it is one or multiple assumptions, that, should they fail to be verified, put the entire concept of your product or the whole business in jeopardy. So it is strongly advised to, as soon as you possibly can, test those LOFAs to make sure you don't spend too much time and money on something no one will need or that you don't have the possibility to build. It is literally prioritization by riskiest assumption.
+In Lean Startup, a very interesting concept was introduced: The leap of faith assumption, or LOFA. The idea is rather simple, it is one or multiple assumptions, that, should they fail to be verified, put the entire concept of your product or the whole business in jeopardy. So it is strongly advised to, as soon as you possibly can, test those LOFAs to make sure you don't spend too much time and money on something no one will need or that you don't have the possibility to build. It is literally prioritization by riskiest assumption. LOFAs can be both business and market assumptions but also linked to the technical feasibility of your product.
 
 What does it mean in the context of this project? Let's look at our wifi tester example. Let's say that one of your assumption is that you have the necessary skills and that it is technically feasible to build a piece of code that can test the wifi strength with a smartphone. How do we test that? There are many ways you could prove that, either with or without code. One way would be to build a single screen with a large "Test wifi" button that executes the logic behind the scenes to test the wifi signal and then shows a human readable result on the screen. Of course, it doesn't mean there is not a substantial amount of work behind it, but we are stripping down the initial concept to the bare minimum so that we can prove the most critical hypothesis we have.
 
