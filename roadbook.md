@@ -142,7 +142,7 @@ Once you have got the idea of how to prioritize and have a first experience with
 
 #### Don't neglect user experience
 
-![How to build an MVP](https://www.spaceo.ca/wp-content/uploads/2020/07/minimum-viable-product-mvp.jpg)
+![How to build an MVP](https://www.spaceo.ca/wp-content/uploads/2020/12/minimum-viable-product-mvp.jpg)
 
 It is tempting, when starting a new project, to consider that we just need to ship some functionality to make users happy, regardless of what it looks and feels like, and we will take care of the "design" later on. That is most of the time wrong, and not what is expected during this project.
 
