@@ -118,7 +118,10 @@ The good thing about this project is that you start from a clean slate, meaning 
 
 You never know what the feedback of the customer will be during your demos, or what crazy ideas we will come up with during those meetings. You may also find technical limitations that force you to go a different path when you're stuck. So, not planning too far ahead allows you to make sure you don't work on things you will never need.
 
-#### Your first client demo
+
+#### Closing your first iteration
+
+##### Your first client demo
 
 The first iteration is over and you're ready to demo what you have so far. If you followed the previous advices, you should have a rather simple but functional app to show, even after two weeks. There is, however, most likely unfinished features, test data or other temporary things in your app.
 
@@ -130,9 +133,32 @@ It is therefore very important to remove or hide anything that is not working, o
 
 One last important point: Don't underestimate the time and effort it takes to merge all your respective changes together. Ideally, you'll want to make sure you have a "demo-able" version of your app the night BEFORE the demo. Don't do this a few minutes before, as it will likely result in an unhelpful review.
 
-#### Your first retrospective
+##### Your first retrospective
 
+Working as a team is not easy. There is more to working as a team than just splitting work to be done. In the context of software development, you don't want your product to look like a set of different pieces built by different people. Your customers don't care much about who did what in the code. They want a "whole" product, not several pieces that belongs to different puzzles and that don't gracefully fit together.
 
+Getting to a decent level of integration within a team sometimes requires more work than expected. It implies adapting to the personalities and expectations of the different team members and trying different improvements in the ways of working of the team to reach higher overall quality of the product.
+
+In order to improve a process, one first needs to inspect it, then adapt it. Which is why most Agile approaches include a concept borrowed from Lean, the [Kaizen](https://en.wikipedia.org/wiki/Kaizen), or continuous improvement. It is implemented in the form of an [Agile retrospective](https://retrospectivewiki.org/).
+
+An Agile retrospective is a participative meeting organized for the team to reflect on the way they work and point out potential improvements. On top of pointing improvements, it is essential to define clear experiments to try in the next iterations and follow-up on those items. It is a very powerful tool for teams that use it well. However, it is NOT a place to deal with personal grudges. A retrospective is not a boxing ring.
+
+There are several ways to run a retrospective and you will find some examples [here](https://retrospectivewiki.org/index.php?title=Retrospective_Plans) but almost all those different workshops are used to follow the basic retrospective structure that your coach will follow:
+
+1. Set the stage, be clear about the objectives of the retrospective
+2. Gather data, the more you can pick from the team members' brains the better
+3. Generate insights, regroup related points raised, dig deeper when it is unclear
+4. Decide what to do, select a subset of the points raised that are most important to deal with now and propose experiments to run
+5. Close the retrospective
+
+During the P4, your coach will be encouraged to use the 4 following retrospective tools:
+
+- [Starfish](https://retrospectivewiki.org/index.php?title=Start,_Stop,_Continue,_More_of,_Less_of_Wheel), maybe in simpler for by dropping the "more of", "less of"
+- [Top 5](https://retrospectivewiki.org/index.php?title=Top_5), maybe limited to 2 or 3 top issues depending on the context
+- [Glad, Sad, Mad](https://retrospectivewiki.org/index.php?title=Glad,_Sad,_Mad)
+- [Four L's](https://retrospectivewiki.org/index.php?title=Four_L%27s_Retrospective)
+
+At the end of each of your iterations, a retrospective will be organized by your coach but you can also run your own whenever you feel it is needed and ask some help to any of the teaching assistants or tutors.
 
 #### Wrapping up
 
