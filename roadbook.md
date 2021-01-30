@@ -118,6 +118,9 @@ The good thing about this project is that you start from a clean slate, meaning 
 
 You never know what the feedback of the customer will be during your demos, or what crazy ideas we will come up with during those meetings. You may also find technical limitations that force you to go a different path when you're stuck. So, not planning too far ahead allows you to make sure you don't work on things you will never need.
 
+##### Writing your first user stories
+
+##### Estimating using planning poker
 
 #### Closing your first iteration
 
@@ -160,6 +163,10 @@ During the P4, your coach will be encouraged to use the 4 following retrospectiv
 
 At the end of each of your iterations, a retrospective will be organized by your coach but you can also run your own whenever you feel it is needed and ask some help to any of the teaching assistants or tutors.
 
+##### Iteration report
+
+
+
 #### Wrapping up
 
 ### Your next iterations
@@ -180,7 +187,7 @@ It means that the user experience is not just about the "colors" and how "beauti
 
 Notice than in the previous examples, I didn't talk about the "colors" or how perfect the font needs to be. I was talking about "usability". Anybody can ship a feature that just works, but it takes effort to ship a feature that is clear and straightforward to use.
 
-So during your first iterations, it's ok to not to have a great design with an amazing color palette and a beautiful, but it is not ok to have features that your customer don't understand.
+So during your first iterations, it's ok to not to have a great design with an amazing color palette and a beautiful fonts, but it is not ok to have features that your customer don't understand.
 
 #### Build incrementally
 
