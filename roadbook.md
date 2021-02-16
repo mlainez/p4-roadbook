@@ -120,7 +120,41 @@ You never know what the feedback of the customer will be during your demos, or w
 
 ##### Writing your first user stories
 
+In order for everyone in your group to understand what functionality is being requested, it's important that you speak the same language. It is also important to adopt conventions about the way these features will be described. There are several ways to deal with that, but in several Agile approaches, the user story is used. A user story describes a functionality from the point of view of it's user, and clearly identifies the value that she gets from it. In some cases, a specific template will be used to express such a user story, but it's not mandatory to use it. The most commont template for user stories was introduced by [Mike Cohn](https://www.mountaingoatsoftware.com/agile/user-stories) and is explained as follows:
+
+> As a "type of user", I want "some feature", so that "it brings me some value"
+
+Note that a user story is always related to the value that is brought to a specific type of user of the system. There should be no such thing as a "technical user story" that describes the functionality from the point of view of a developer or database admin for instance.
+
+On the other hand, several tasks, which could be technical, can be attached to the user story in it's detailled description. A user story in itself is a conversation starter between the team and it's customer. Once it's been agreed upon, it's up to the team to add as much information as they see fit in order to deliver the feature described.
+
+Taking into consideration the remarks above about identifying your LOFAs and the YAGNI concept, it's now time for you to start writing your first user stories. Try to keep the template above in mind and try to, as much as you can, keep yourselves from getting into how it will be implemented. Stay at the functional level in your discussions and focus on the advantage the users will get from the feature you're discussing.
+
+In order to keep track of your user stories, we will use [Trello](https://trello.com/) during this project. You are required to create a Trello, create 4 columns "backlog, todo, wip, done" and invite your teacher to it. You can write your user stories directly as a card in Trello, that way, you can start having a conversation about it's implementation and add any additional information you will need to get started.
+
 ##### Estimating using planning poker
+
+One thing that Agility tries to accomplish, is to make complex situation predictable. Or at least, as predictable as they could be. It's a common misunderstanding that because we're "using Agile" there is no measurment, no tracking. It's a wrong assumption.
+
+There are many ways to measure progress on an IT project. More traditional project approaches rely heavily on estimates upfront and big upfront analysis. These are prone to errors and can lead to the wrong assumptions, themselves leading to serious delays on large projects.
+
+Agile flips this paradigm and relies on very limited estimations while heavily focusing on observable data and transparency in the process.
+
+It's impossible to go at lenght in this topics in this course, others have explored it in books such as [Agile Estimating and Planning](https://www.mountaingoatsoftware.com/books/agile-estimating-and-planning) or even proposed controversial models where a different approach to estimates and planning is described [#noestimates](https://oikosofyseries.com/no-estimates-book-order). This shows that the Agile community of practicioners is constantly searching for new experiments to run to improve the way we build software.
+
+One simple estimation technique is [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker). It focuses on relative estimation, meaning that each story is compared to one or several others. It is also trying to avoid the influence of dominant team members in the discussions.
+
+Each team member is given a card deck. On each card there are numbers following the fibonacci suite. Using this suite reflects the growing difficulty to precisely compare two stories the bigger they are. But some decks also have powers of 2, t-shirt sizes and event animals. Not using numbers help developers detach themselves from only thinking about a number of "hours" or "man days" as there is a strong tendency to see the numbers in the planning poker cards as such. The numbers represent "story points", an abstract construct combining several dimensions:
+
+* The cmoplexity or technical knowledge needed to build that story
+* The risks associated to building this story (can it break the system? loose money if buggy? ...)
+* The personal perception of the amount of work to build that story
+
+It's the combination of the 3 that is represented by the "story points", which is more than just "time". Of course "time" will give a concious or unconcious bias to the estimator but simply reducing story points to the number of hours needed is a mistake.
+
+During this P4, we encourage you to practice planning poker and to use either a physical card deck (some are available at the department) or a [digital version](https://www.planningpoker.com/).
+
+You can add your story points to the Trello cards you should have created for the stories you wrote as a team. Don't esimate too much stories in advance, you only need to have enough to get started on this project, not to keep building for 6 months. Don't forget what we covered in the previous sections.
 
 #### Closing your first iteration
 
