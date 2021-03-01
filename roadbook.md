@@ -146,7 +146,7 @@ One simple estimation technique is [Planning Poker](https://en.wikipedia.org/wik
 
 Each team member is given a card deck. On each card there are numbers following the fibonacci suite. Using this suite reflects the growing difficulty to precisely compare two stories the bigger they are. But some decks also have powers of 2, t-shirt sizes and event animals. Not using numbers help developers detach themselves from only thinking about a number of "hours" or "man days" as there is a strong tendency to see the numbers in the planning poker cards as such. The numbers represent "story points", an abstract construct combining several dimensions:
 
-* The cmoplexity or technical knowledge needed to build that story
+* The complexity or technical knowledge needed to build that story
 * The risks associated to building this story (can it break the system? loose money if buggy? ...)
 * The personal perception of the amount of work to build that story
 
@@ -199,9 +199,25 @@ At the end of each of your iterations, a retrospective will be organized by your
 
 ##### Iteration report
 
+One of the deliverables of this project is a written report. It consists of a summary of each of the description of your app, then a summary of all 5 iterations and a conclusion on what you have learned, liked or disliked using an Agile approach during this project.
 
+In order to make sure you spend the least amount of time possible on this report, it's better to capture what is needed for it at the end of each iteration. That's why we ask you to fill in a one-pager summarizing your iteration.
+
+You will find a template of it on [Moodle](https://moodleucl.uclouvain.be/pluginfile.php/1426811/mod_folder/content/0/rapport_sprint.docx). It's fairly simple and is composed of the following sections:
+
+- Planned user stories: we ask you to list the stories you initialy planned to work on at the beginning of the iteration, and to also put the estimate you had using Planning Poker. It can be a number, t-shirt size or anything you used for your estimation.
+- Done user stories: we ask you to list the user stories that you actually finished during the iteration. By finished, we mean that the customer was hapy about it during the demo.
+- What do you plan on improving during the next iteration: it's the result of your retrospective. It should not be a technical or feature improvement on your app, but something you plan on improving in the way you work.
+
+After 5 iterations, you should therefore have 5 iteration reports. Which is pretty much alreay 75% of your final report content.
 
 #### Wrapping up
+
+As you've finished your first iteration, it's important to remember a few things before going to your demo and moving on:
+
+* [] Try your demo first with your group before showing it to the client
+* [] Hide all unfinished features, and only show what is "done" to your client
+* [] Remember to fill in iteration report
 
 ### Your next iterations
 
