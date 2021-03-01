@@ -215,9 +215,9 @@ After 5 iterations, you should therefore have 5 iteration reports. Which is pret
 
 As you've finished your first iteration, it's important to remember a few things before going to your demo and moving on:
 
-* [] Try your demo first with your group before showing it to the client
-* [] Hide all unfinished features, and only show what is "done" to your client
-* [] Remember to fill in iteration report
+* [ ] Try your demo first with your group before showing it to the client
+* [ ] Hide all unfinished features, and only show what is "done" to your client
+* [ ] Remember to fill in iteration report
 
 ### Your next iterations
 
